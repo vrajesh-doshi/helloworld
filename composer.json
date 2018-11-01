@@ -1,0 +1,14 @@
+{
+    "name": "vrajesh/helloworld",
+    "description": "This package will help to echo Hello World on the Screen",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vrajesh Doshi",
+            "email": "vrajesh_doshi@yahoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
